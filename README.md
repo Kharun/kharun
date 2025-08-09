@@ -1,10 +1,10 @@
-# 👨‍💻 Харун — Frontend Developer
+# 👨‍💻 Kharun — Frontend Developer
 
-Добро пожаловать в мой репозиторий.
+Welcome to my repository.
 
 ---
 
-## 🛠️ Стек технологий
+## 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
@@ -18,12 +18,19 @@
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=fff)
 ![RTK Query](https://img.shields.io/badge/-RTK%20Query-764ABC?logo=redux&logoColor=fff)
 ![Zustand](https://img.shields.io/badge/-Zustand-000000?logoColor=fff)
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=fff)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?logo=react-query&logoColor=fff)
+![React Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=fff)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=fff)
+![Material UI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=fff)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=fff)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=fff)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff)
 
 ---
 
-## 📬 Контакты
+## 📬 Contacts
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=fff)](https://t.me/MrIrty)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff)](mailto:harun.mashanlo12@gmail.com)
@@ -31,10 +38,10 @@
 
 ---
 
-## 📌 О работе
+## 📌 About
 
-Работаю с современным фронтенд-стеком. Пишу структурированный и чистый код, реализую адаптивные интерфейсы, интегрирую REST API. Разрабатываю приложения с использованием **React**, **Next.js**, **Redux Toolkit**, **RTK Query** и **Zustand**.  
+I work with a modern frontend tech stack. I write structured and clean code, implement responsive interfaces, and integrate REST APIs. I develop applications using **React**, **Next.js**, **Redux Toolkit**, **RTK Query** and **Zustand**.
 
-Следую принципам грамотной архитектуры и производительности.
+I follow best practices for architecture and performance.
 
 ---
